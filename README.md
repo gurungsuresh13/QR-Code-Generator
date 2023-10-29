@@ -9,6 +9,18 @@ This Python project allows you to create QR codes for any URL of your choice. It
 
 - Generate QR codes for URLs.
 - Customize the appearance of QR codes by modifying the script.
-- Easy installation with a requirements file.
 
+## Requirements
+
+This project has the following requirements:
+
+- Python 3.x
+- `qrcode` library
+- `Pillow` (PIL) library
+
+You can install the required Python libraries using pip:
+
+```bash
+pip install qrcode
+pip install Pillow
 
