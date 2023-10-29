@@ -1,2 +1,3 @@
 # QR-Code-Generator
-Generate QR codes  Python
+Generate QR codes using Python
+
